@@ -1,0 +1,32 @@
+TELESAMAI.
+TeleSamAI is a pioneering technology company specializing in the development and implementation of artificial intelligence solutions. 
+Our core mission is to harness the transformative potential of AI to tackle intricate challenges and enhance operational efficiency 
+across diverse industries. By employing cutting-edge machine learning algorithms and advanced data analytics, we strive to redefine 
+business operations and empower data-informed decision-making.
+TeleSamAI Solutions was established by a team of seasoned AI engineers and business visionaries driven by a fervent dedication to 
+innovation. Drawing upon our collective expertise, we have a proven track record in creating bespoke AI applications for a wide array 
+of sectors, including healthcare, finance, oil and gas, defence, aviation, government, e-commerce, and beyond. Committed to remaining 
+at the forefront of AI advancements, we continuously refine our offerings to cater to the dynamic needs of our clientele.
+Our Vision:
+TeleSamAI is poised to emerge as a frontrunner in the rapidly expanding AI market. Fuelled by a commitment to innovation, expertise, 
+and client satisfaction, we are confident in our ability to deliver tangible value to our clients and stakeholders while shaping the 
+future trajectory of AI technology.
+Our Team:
+Helming TeleSamAI is a cadre of industry luminaries boasting diverse proficiencies in AI research, software development, and business administration.
+Co-Founder and CEO: Felix Nanor - A visionary leader with extensive experience in AI research and business management, 
+Felix founded TeleSamAI with a mission to drive innovation and deliver impactful solutions.
+Co-Founder/Chief Technology Officer: Agbo Manfuji - A seasoned software engineer with a passion for pushing the boundaries of technology, 
+Fuji leads our technical team in developing cutting-edge AI solutions.
+Co-Founder/Head of AI Research: Felix Aduloju - A distinguished AI researcher, Felix leads our research efforts, driving the 
+development of novel algorithms and methodologies.
+
+Products and Services:
+At TeleSamAI, we offer a comprehensive suite of AI solutions tailored to meet the unique requirements of our clients:
+Custom AI Solutions: Tailored AI solutions crafted to address specific business challenges and opportunities, 
+encompassing predictive analytics, natural language processing, computer vision, and recommendation systems.
+AI Platform Development: Creation of AI platforms and frameworks empowering businesses to efficiently build, deploy, and manage AI applications.
+AI Consulting Services: Expert consultancy services aiding businesses in identifying AI opportunities, formulating AI strategies, 
+and seamlessly implementing AI solutions.
+AI Integration and Support: Seamless integration of AI solutions into existing business systems and processes, accompanied by 
+comprehensive support and maintenance services.
+AI Training and Education: Training programs and workshops designed to upskill professionals in AI technologies, methodologies, and best practices.
