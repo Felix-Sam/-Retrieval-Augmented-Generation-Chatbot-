@@ -8,3 +8,4 @@ langchain_pinecone
 streamlit
 langchain_openai 
 langchain 
+langchain-groq
