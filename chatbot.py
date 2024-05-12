@@ -15,9 +15,9 @@ from dotenv import load_dotenv
 
 load_dotenv()
 
-# API_KEY = os.getenv('OPENAI_API_KEY')
-# MODEL = 'gpt-3.5-turbo'
-# model = ChatOpenAI(api_key=API_KEY,model=MODEL)
+API_KEY = os.getenv('OPENAI_API_KEY')
+MODEL = 'gpt-3.5-turbo'
+model = ChatOpenAI(api_key=API_KEY,model=MODEL)
 
 parser = StrOutputParser()
 
