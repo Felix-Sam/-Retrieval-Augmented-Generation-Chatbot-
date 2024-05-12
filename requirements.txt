@@ -1,0 +1,10 @@
+langchain_community
+pypdf
+python-dotenv
+pinecone-client 
+fastapi 
+uvicorn 
+langchain_pinecone
+streamlit
+langchain_openai 
+langchain 
